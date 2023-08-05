@@ -43,7 +43,7 @@ module.exports = {
                 130: "30rem",
             },
             backgroundImage: {
-                gambar: "url('/img/bg.jpg')",
+                gambar: "url('/img/bg2.jpg')",
             },
         },
     },
